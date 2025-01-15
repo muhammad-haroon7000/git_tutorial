@@ -11,11 +11,18 @@ __Merge__: The process of combining changes from one branch into another.
 __Pull__ Request: A request to merge changes from one branch into another. It is a way to review and discuss changes before they are merged.
 
 ###### Basic Workflow
-Initialize a repository: < git init>
-Add files to the staging area: < git add <file> >
-Commit changes: < git commit -m "Commit message"
-Create a branch: git checkout -b <branch_name>
-Switch to a branch: git checkout <branch_name>
-Merge a branch: git merge <branch_name>
-Push changes to a remote repository: git push origin <branch_name>
-Pull changes from a remote repository: git pull origin <branch_name>
+Initialize a repository: __git init__  
+Add files to the staging area: __git add <file>__  
+Commit changes: __git commit -m "Commit message"__  
+Create a branch: __git checkout -b <branch_name>__  
+Switch to a branch: __git checkout <branch_name>__  
+Merge a branch: __git merge <branch_name>__
+Push changes to a remote repository: __git push origin <branch_name>__  
+Pull changes from a remote repository: __git pull origin <branch_name>__  
+
+___Advanced Concepts__
+
+Rebase: An alternative to merging that creates a linear project history.  
+Stashing: Temporarily save changes that you don't want to commit yet.  
+Tags: Mark specific points in your project history, such as releases.  
+Hooks: Scripts that run automatically before or after certain Git events.  
