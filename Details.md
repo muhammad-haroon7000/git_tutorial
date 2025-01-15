@@ -20,7 +20,7 @@ Merge a branch: __git merge <branch_name>__
 Push changes to a remote repository: __git push origin <branch_name>__  
 Pull changes from a remote repository: __git pull origin <branch_name>__  
 
-___Advanced Concepts__
+__Advanced Concepts__
 
 Rebase: An alternative to merging that creates a linear project history.  
 Stashing: Temporarily save changes that you don't want to commit yet.  
