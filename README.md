@@ -1,2 +1,2 @@
 # git_tutorial
-Web-Development with Python and Javascript...
+Check out Details.MD file
